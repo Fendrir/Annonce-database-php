@@ -44,6 +44,33 @@ $data=$users->fetchAll();
 	</head>
 	<body>
 
+		<div class="container">
+
+			<div class="row">
+
+				<div class="col-md-12">
+
+					<h1>Nos rubriques</h1>
+					
+					<div class="col-md-6">
+						
+						<h2>Maison</h2>
+
+					</div>
+
+					<div class="col-md-6">
+						
+						<h2>Cabanes</h2>
+
+					</div>
+
+				</div>
+				
+
+			</div>
+			
+		</div>
+
 		<div>
 
 		<?php 
